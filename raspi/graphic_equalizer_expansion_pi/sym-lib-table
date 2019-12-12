@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name graphic_equalizer_expansion_pi-rescue)(type Legacy)(uri ${KIPRJMOD}/graphic_equalizer_expansion_pi-rescue.lib)(options "")(descr ""))
+  (lib (name MCP3001)(type Legacy)(uri ${KIPRJMOD}/MCP3001.lib)(options "")(descr ""))
+)
